@@ -8,6 +8,6 @@ public class DigitalWebEducationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DigitalWebEducationApplication.class, args);
-		System.out.println("application started");
+		System.out.println("application started here");
 	}
 }
